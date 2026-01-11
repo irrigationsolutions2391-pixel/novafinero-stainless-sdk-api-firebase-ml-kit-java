@@ -9,7 +9,7 @@ repositories {
 
 allprojects {
     group = "com.novafinero_stainless_sdk_api_firebase_ml_kit.api"
-    version = "0.0.1"
+    version = "0.0.1" // x-release-please-version
 }
 
 subprojects {

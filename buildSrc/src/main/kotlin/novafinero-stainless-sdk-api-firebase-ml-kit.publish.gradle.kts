@@ -11,7 +11,7 @@ configure<PublishingExtension> {
             pom {
                 name.set("OpenAPI 3.0 Pet Store")
                 description.set("This is a sample Pet Store Server based on the OpenAPI 3.0 specification.")
-                url.set("https://www.github.com/stainless-sdks/novafinero-stainless-sdk-api-firebase-ml-kit-java")
+                url.set("https://www.github.com/irrigationsolutions2391-pixel/novafinero-stainless-sdk-api-firebase-ml-kit-java")
 
                 licenses {
                     license {
@@ -26,9 +26,9 @@ configure<PublishingExtension> {
                 }
 
                 scm {
-                    connection.set("scm:git:git://github.com/stainless-sdks/novafinero-stainless-sdk-api-firebase-ml-kit-java.git")
-                    developerConnection.set("scm:git:git://github.com/stainless-sdks/novafinero-stainless-sdk-api-firebase-ml-kit-java.git")
-                    url.set("https://github.com/stainless-sdks/novafinero-stainless-sdk-api-firebase-ml-kit-java")
+                    connection.set("scm:git:git://github.com/irrigationsolutions2391-pixel/novafinero-stainless-sdk-api-firebase-ml-kit-java.git")
+                    developerConnection.set("scm:git:git://github.com/irrigationsolutions2391-pixel/novafinero-stainless-sdk-api-firebase-ml-kit-java.git")
+                    url.set("https://github.com/irrigationsolutions2391-pixel/novafinero-stainless-sdk-api-firebase-ml-kit-java")
                 }
 
                 versionMapping {
